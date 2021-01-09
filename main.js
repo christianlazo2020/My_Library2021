@@ -106,6 +106,7 @@ chris.pluck = (array, nameProperty) => {
 
 /*WITHOUT*/
 /* esta funcion no pude realizarla con un array funcion porque no me deja acceder a la propiedad arguments*/
+/*Lo hice con una declaracion de funcion*/
 function myWithout(array, values) {
   let data = [];
 
